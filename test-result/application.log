@@ -1,0 +1,14 @@
+13 jul 2012 07:39:58,901 INFO  ~ Starting C:\play-1.2.4\libros
+13 jul 2012 07:40:05,401 WARN  ~ You're running Play! in DEV mode
+13 jul 2012 07:40:07,698 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+13 jul 2012 07:42:52,619 INFO  ~ Connected to jdbc:mysql://localhost/categoria?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 07:42:52,666 INFO  ~ Application 'libros' is now started !
+13 jul 2012 07:50:44,182 INFO  ~ Connected to jdbc:mysql://localhost/categoria?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 07:58:21,416 INFO  ~ Connected to jdbc:mysql://localhost/dblibros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 08:01:55,948 INFO  ~ Connected to jdbc:mysql://localhost/dblibros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 08:05:19,291 INFO  ~ Connected to jdbc:mysql://localhost/dblibros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 08:10:35,791 INFO  ~ Connected to jdbc:mysql://localhost/dblibros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 08:18:29,463 INFO  ~ Connected to jdbc:mysql://localhost/dblibros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 08:29:19,260 INFO  ~ Connected to jdbc:mysql://localhost/dblibros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 08:34:20,088 INFO  ~ Connected to jdbc:mysql://localhost/dblibros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 08:46:09,682 INFO  ~ Connected to jdbc:mysql://localhost/dblibros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
